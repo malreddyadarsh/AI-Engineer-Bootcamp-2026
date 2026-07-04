@@ -1,0 +1,11 @@
+# Student Profile
+name=input("Enter Name:")
+age=int(input("Enter Age:"))
+college=input("Enter College Name:")
+branch=input("Enter Branch:")
+cgpa=input("Enter CGPA:")
+print("Name :",name)
+print("Age :",age)
+print("College :",college)
+print("Branch :",branch)
+print("CGPA :",cgpa)
