@@ -1,0 +1,12 @@
+name = input("Name: ")
+age = int(input("Age: "))
+college = input("College: ")
+branch = input("Branch: ")
+cgpa = float(input("CGPA: "))
+
+print("\n----- Student Profile -----")
+print("Name:", name)
+print("Age:", age)
+print("College:", college)
+print("Branch:", branch)
+print("CGPA:", cgpa)
