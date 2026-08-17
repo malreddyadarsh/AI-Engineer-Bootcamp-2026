@@ -1,2 +1,0 @@
-These exercises are designed to help you master file handling through hands-on coding. Do not copy-paste the solutions immediately. First, spend 15 or 30 minutes trying each problem on your own. If you're stuck, refer to the hints, and only then check the solution.This is a simple version of logging.Later, you'll learn Python's built-in logging module, which is used in professional applications.
-""
