@@ -1,0 +1,9 @@
+OPTIMIZER         LR         FINAL TRAIN LOSS       FINAL VAL LOSS
+
+SGD               0.01       192.4000               282.5989
+
+SGD + Momentum    0.01       192.4000               282.4998
+
+Adam              0.001      3226.9573              4217.1475
+
+AdamW             0.001      3024.7456              3775.7920
